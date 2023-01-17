@@ -22,11 +22,11 @@ By clicking this, you will view a collaborative game project made with my classr
 * 1 player, 2 player game : tic-tac-toe 
 
 ### Programming 
- * Skipping code that would generate an error
-   * Try - catch statements 
- * Make a validInput boolean variable for retrying 
-   * validInput = false 
- * methods to determine which player won 
+     * Skipping code that would generate an error
+       * Try - catch statements 
+     * Make a validInput boolean variable for retrying 
+       * validInput = false 
+     * methods to determine which player won 
  
  
 ## 3. What-to-Wear Game
@@ -37,8 +37,8 @@ By clicking this, you will view my first game project that displays clothing opt
 * Based on the user input, different combinations of clothing are displayed on screen. 
 
 ### Programming 
-   * if else, nested if statements 
-   * demonstrates creative ideas of cases where potential errors could appear
+     * if else, nested if statements 
+     * demonstrates creative ideas of cases where potential errors could appear
      * system exit if user inputs N for all 3 questions where they must input at least 1 Y
    
 
@@ -50,11 +50,11 @@ By clicking this, you will view my first retail check-out system code that assis
 * check-out system : outputs most effective coin value when distributing change
 
 ### Programming
- * stored item name and cost stored in arrays
- * if else statment to determine if user inputed more amount of cash than the total cost
-   * system exit if user inputed less cash than the total cost 
- * if else statment for most effective coin choice for the change
-   * ex) twoonies, loonies, nickel, dime
+      * stored item name and cost stored in arrays
+      * if else statment to determine if user inputed more amount of cash than the total cost
+      * system exit if user inputed less cash than the total cost 
+      * if else statment for most effective coin choice for the change
+         * ex) twoonies, loonies, nickel, dime
 
 
  
