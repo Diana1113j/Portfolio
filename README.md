@@ -21,7 +21,7 @@ By clicking this, you will view a collaborative game project made with my classr
 
 * 1 player, 2 player game : tic-tac-toe 
 
-### Programming 
+    ### Programming 
  * Skipping code that would generate an error
    * Try - catch statements 
  * Make a validInput boolean variable for retrying 
@@ -36,7 +36,7 @@ By clicking this, you will view my first game project that displays clothing opt
 * 1 player game : asks the user for the temperature, precipitation, and to choose whether it is (windy/sunny/cloudy)
 * Based on the user input, different combinations of clothing are displayed on screen. 
 
- ### Programming 
+    ### Programming 
    * if else, nested if statements 
    * demonstrates creative ideas of cases where potential errors could appear
      * system exit if user inputs N for all 3 questions where they must input at least 1 Y
@@ -49,7 +49,7 @@ By clicking this, you will view my first retail check-out system code that assis
 
 * check-out system : outputs most effective coin value when distributing change
 
-### Programming
+   ### Programming
  * stored item name and cost stored in arrays
  * if else statment to determine if user inputed more amount of cash than the total cost
    * system exit if user inputed less cash than the total cost 
