@@ -1,8 +1,5 @@
-/* Name: Diana Jung
- *  Course: ICS 3U/C
- *  Teacher: Mrs.Keller
- *  Date: December 19 2022
- *  Description: This code is Hangman game, generating a random word based on their 
+/* Name: Hyeonji Jung
+ *  Description: This code is Hangman game. It generates a random word based on the users' 
  *  category and difficulty choice, asking the user to guess the alphabet in the random
  *  Word and giving 5 chances for them to guess the final word. 
  */
