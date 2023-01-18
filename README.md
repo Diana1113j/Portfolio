@@ -17,7 +17,7 @@ By clicking this, you will view the project I shared with seniors in the long-te
 ## 2. Collaborative Tic-Tac-Toe Project
 [tic-tac-toe](https://github.com/Diana1113j/Portfolio/blob/main/Tictactoe.java)
 
-By clicking this, you will view a collaborative game project made with my classroom peer. 
+By clicking this, you will view a collaborative game project made with my classmate in grade 11 computer science. 
 
 * 1 player, 2 player game : tic-tac-toe 
 
