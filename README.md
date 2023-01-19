@@ -5,6 +5,7 @@ This showcases some examples of codes I have made using java.
 [Hangman](https://github.com/Diana1113j/Portfolio/blob/main/Hangman.java)
 
 By clicking this, you will view the Hangman game I played with seniors while volunteering in the long-term care center.
+
 I created this game with a purpose of assisting seniors with dementia by remembering words with entertaining games.
 
  * 1 player game : guess the random word generated based on the user's
